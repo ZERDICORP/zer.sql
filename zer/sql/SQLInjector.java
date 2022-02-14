@@ -15,7 +15,7 @@ import java.util.ArrayList;
 
 public class SQLInjector extends SQLConfig
 {
-	public static void wakeup() throws SQLException
+	private static void wakeup() throws SQLException
 	{
 		/*
 		 * Wake up the connection if it is closed.
