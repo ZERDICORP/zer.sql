@@ -135,8 +135,6 @@ public class Main
   }
 }
 ```
-
-Result :sparkles:
 ```
 $ javac -cp lib/*:. Main.java && java -cp lib/*:. Main
 id: 1, name: Alex, age: 20
@@ -228,8 +226,6 @@ public class Main
   }
 }
 ```
-
-Result :sparkles:
 ```
 $ javac -cp lib/*:. Main.java && java -cp lib/*:. Main
 
